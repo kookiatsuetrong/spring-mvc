@@ -1,1 +1,1 @@
-<i>Welcome to View</i>
+<i>Hello ${user} </i>
